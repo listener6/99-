@@ -1,0 +1,19 @@
+/*稍微美化一下乘法表，与乘法表生成无关*/
+body {
+    background: white;
+    width: 100%;
+}
+
+table {
+    width: 700px;
+    height: 400px;
+
+    text-align: center;
+    border-collapse: collapse;
+    margin: 100px auto;
+}
+tr, td {
+    background-color:cornflowerblue;
+    border: 1px solid black;
+    font-size: 20px;
+}
